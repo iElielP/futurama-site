@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "version": 1,
+    "serie": "Futurama",
+    "descripcion": "Álbumes de personajes con imágenes y captions humorísticos."
+  },
+  "albums": [
+    {
+      "id": "fry",
+      "titulo": "Philip J. Fry",
+      "thumbnail": "img/fry-0.webp",
+      "imagenes": [
+        {
+          "src": "img/fry-1.webp",
+          "alt": "Fry",
+          "caption": "Bender y Fry planeando otra de sus brillantes (y dudosas) aventuras."
+        },
+        {
+          "src": "img/fry-2.webp",
+          "alt": "Fry",
+          "caption": "Fry al volante de la ciencia… y sin idea de cómo funciona su traje espacial."
+        },
+        {
+          "src": "img/fry-3.webp",
+          "alt": "Fry",
+          "caption": "Fry listo para salvar el universo… o al menos intentarlo con cara de héroe improvisado."
+        }
+      ]
+    },
+    {
+      "id": "farnsworth",
+      "titulo": "Profesor Farnsworth",
+      "thumbnail": "img/farnsworth-0.webp",
+      "imagenes": [
+        {
+          "src": "img/farnsworth-1.webp",
+          "alt": "Profesor Farnsworth",
+          "caption": "Profesor Farnsworth tramando otro experimento que probablemente termine mal… pero con estilo."
+        },
+        {
+          "src": "img/farnsworth-2.webp",
+          "alt": "Profesor Farnsworth",
+          "caption": "Fry, Farnsworth y Bender en una reunión que parece más un club de fans de la bebida."
+        },
+        {
+          "src": "img/farnsworth-3.webp",
+          "alt": "Profesor Farnsworth",
+          "caption": "El Profesor Farnsworth en modo mago científico: cuando la ciencia ya no alcanza, se recurre a la magia."
+        }
+      ]
+    },
+    {
+      "id": "bender",
+      "titulo": "Bender",
+      "thumbnail": "img/bender-0.webp",
+      "imagenes": [
+        {
+          "src": "img/bender-1.webp",
+          "alt": "Bender",
+          "caption": "Bender y un robot rival tramando travesuras con estilo muy sospechoso."
+        },
+        {
+          "src": "img/bender-2.webp",
+          "alt": "Bender",
+          "caption": "Bender luciendo su barba de villano y esa mirada que promete problemas."
+        },
+        {
+          "src": "img/bender-3.webp",
+          "alt": "Bender",
+          "caption": "Bender en su hábitat natural: puro humo, cerveza y cero responsabilidad."
+        }
+      ]
+    },
+    {
+      "id": "leela",
+      "titulo": "Turanga Leela",
+      "thumbnail": "img/leela-0.webp",
+      "imagenes": [
+        {
+          "src": "img/leela-1.webp",
+          "alt": "Leela",
+          "caption": "Leela, Fry y Bender demostrando que la amistad rara también cuenta."
+        },
+        {
+          "src": "img/leela-2.webp",
+          "alt": "Leela",
+          "caption": "Leela aplicando la mejor solución para los problemas de Bender: una buena patada."
+        },
+        {
+          "src": "img/leela-3.webp",
+          "alt": "Leela",
+          "caption": "Leela versión centauro: cuando salvar el universo no era lo suficientemente extraño."
+        }
+      ]
+    },
+    {
+      "id": "amy",
+      "titulo": "Amy Wong",
+      "thumbnail": "img/amy-0.webp",
+      "imagenes": [
+        {
+          "src": "img/amy-1.webp",
+          "alt": "Amy",
+          "caption": "Amy probando un traje inflable que claramente se le fue de las manos."
+        },
+        {
+          "src": "img/amy-2.webp",
+          "alt": "Amy",
+          "caption": "Amy en versión sirena, lista para conquistar océanos y causar drama submarino."
+        },
+        {
+          "src": "img/amy-3.webp",
+          "alt": "Amy",
+          "caption": "Amy luciendo un look tradicional mientras planea algo travieso detrás de esa sonrisa."
+        }
+      ]
+    },
+    {
+      "id": "nibbler",
+      "titulo": "Nibbler",
+      "thumbnail": "img/nibbler-0.webp",
+      "imagenes": [
+        {
+          "src": "img/nibbler-1.webp",
+          "alt": "Nibbler",
+          "caption": "Nibbler luciendo adorable… aunque todos saben que es mucho más que una simple mascota."
+        },
+        {
+          "src": "img/nibbler-2.webp",
+          "alt": "Nibbler",
+          "caption": "Nibbler montando su extraño corcel espacial como todo un héroe diminuto."
+        },
+        {
+          "src": "img/nibbler-3.webp",
+          "alt": "Nibbler",
+          "caption": "Leela y Nibbler listos para salvar el día (y quizá destruirlo sin querer)."
+        }
+      ]
+    },
+    {
+      "id": "hermes",
+      "titulo": "Hermes Conrad",
+      "thumbnail": "img/hermes-0.webp",
+      "imagenes": [
+        {
+          "src": "img/hermes-1.webp",
+          "alt": "Hermes",
+          "caption": "Hermes revisando papeles con la seriedad de quien vive para la burocracia."
+        },
+        {
+          "src": "img/hermes-2.webp",
+          "alt": "Hermes",
+          "caption": "Hermes sorprendido con un alienígena improvisando peinado nuevo."
+        },
+        {
+          "src": "img/hermes-3.webp",
+          "alt": "Hermes",
+          "caption": "Hermes convertido en un cyborg listo para patear traseros y llenar formularios al mismo tiempo."
+        }
+      ]
+    },
+    {
+      "id": "zoidberg",
+      "titulo": "Dr. Zoidberg",
+      "thumbnail": "img/zoidberg-0.webp",
+      "imagenes": [
+        {
+          "src": "img/zoidberg-1.webp",
+          "alt": "Zoidberg",
+          "caption": "El Dr. Zoidberg en su estado natural: confundido pero adorable."
+        },
+        {
+          "src": "img/zoidberg-2.webp",
+          "alt": "Zoidberg",
+          "caption": "Zoidberg feliz mostrando su nuevo “terrario humano” con orgullo científico."
+        },
+        {
+          "src": "img/zoidberg-3.webp",
+          "alt": "Zoidberg",
+          "caption": "Zoidberg desatando el caos marino con estilo épico y cero control."
+        }
+      ]
+    },
+    {
+      "id": "scruffy",
+      "titulo": "Scruffy",
+      "thumbnail": "img/scruffy-0.webp",
+      "imagenes": [
+        {
+          "src": "img/scruffy-1.webp",
+          "alt": "Scruffy",
+          "caption": "Scruffy, el conserje que habla poco pero siempre aparece en el momento justo… o no."
+        },
+        {
+          "src": "img/scruffy-2.webp",
+          "alt": "Scruffy",
+          "caption": "Scruffy viviendo su etapa salvaje: mismo bigote, menos ropa."
+        },
+        {
+          "src": "img/scruffy-3.webp",
+          "alt": "Scruffy",
+          "caption": "Scruffy en modo héroe espacial, aunque seguro sigue cobrando por hora."
+        }
+      ]
+    }
+  ]
+}

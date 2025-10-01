@@ -1,0 +1,160 @@
+{
+  "seasons": [
+    {
+      "id": "s1",
+      "title": "Temporada 1",
+      "year": 1999,
+      "episodes": 9,
+      "poster": {
+        "src": "img/poster-s1.avif",
+        "alt": "Poster Temporada 1"
+      },
+      "synopsis": "Fry es un repartidor de pizza no muy espabilado del que nadie espera un gran futuro. Sin embargo, todo cambia cuando en la Nochevieja de 1999 va a repartir a un laboratorio criogénico, quedándose atrapado en una de las cápsulas durante mil años. Cuando despierta en el siglo XXXI, en un mundo completamente cambiado, acudirá a su último pariente vivo, el profesor Hubert Farnsworth, para poder establecerse en este futuro. Así, formará parte de la tripulación de Planet Express, una empresa de mensajería intergaláctica, junto a una cíclope de pelo violeta llamada Leela y a un robot malhablado y alcohólico llamado Bender con los que vive aventuras de lo más variopintas.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/c3728d56-fbfc-4509-a16d-19857f8b1daa"
+    },
+    {
+      "id": "s2",
+      "title": "Temporada 2",
+      "year": 1999,
+      "episodes": 20,
+      "poster": {
+        "src": "img/poster-s2.avif",
+        "alt": "Poster Temporada 2"
+      },
+      "synopsis": "La tripulación de Planet Express vuelve a las andanas, con Leela, Fry y el alcoholizado robot Bender al frente. La empresa de mensajería del profesor Hubert Farnsworth seguirá realizando encargos a lo largo del universo, combatiendo una invasión alienígena contra la Tierra, viviendo unas elecciones presidenciales donde regresa Richard Nixon de manera insperada o incluso ir a la universidad en Marte.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/12db85e8-e0e4-46cf-811b-2f424475b817"
+    },
+    {
+      "id": "s3",
+      "title": "Temporada 3",
+      "year": 2000,
+      "episodes": 15,
+      "poster": {
+        "src": "img/poster-s3.avif",
+        "alt": "Poster Temporada 3"
+      },
+      "synopsis": "Regresan un año más los repartidores menos capaces y también los únicos de la empresa Planet Express. Fry, Leela y el robot Bender siguen haciendo encargos variopintos a lo largo del universo conocido, además de intentar ganarse la vida en la Tierra junto a su jefe el profesor Hubert Farnsworth y otros miembros de la plantilla. Sus nuevas historias les llevarán a descubrir misteriosas maldiciones, encontrar más viajeros en el tiempo como Fry, acabar en un planeta de guerreras amazónicas, acometer el rodaje de una película y causar una alteración en el tiempo que amenaza la existencia del universo.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/1fcd296b-30b6-4389-934a-dccebbc91f5a"
+    },
+    {
+      "id": "s4",
+      "title": "Temporada 4",
+      "year": 2001,
+      "episodes": 12,
+      "poster": {
+        "src": "img/poster-s4.avif",
+        "alt": "Poster Temporada 4"
+      },
+      "synopsis": "El planeta se prepara para una invasión de risas y aventuras con la nueva serie de historias que protagoniza los miembros de la compañía de mensajería intergaláctica Planet Express, fundada por el profesor Hubert Farnsworth, su lejano pariente viajero en el tiempo Fry, la cíclope Leela y el robot Bender, además de la estudiante Amy Wong o el Doctor Zoiberg. La tripulación se las verá con viajes hacia el pasado, un maligno Santa Claus, romances robóticos, un conflicto territorial en Marte, una carrera profesional en un deporte futurista, una reunión de Star Trek o la amenaza de compra por parte de una gran corporación.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/cae3f0eb-5230-4b50-a26b-c6634b2fb7a2"
+    },
+    {
+      "id": "s5",
+      "title": "Temporada 5",
+      "year": 2002,
+      "episodes": 16,
+      "poster": {
+        "src": "img/poster-s5.avif",
+        "alt": "Poster Temporada 5"
+      },
+      "synopsis": "La vida del repartidor del siglo XX Philip J. Fry ha cambiado radicalmente desde que hace unos años viajase mil años por quedar atrapado en una cámara criogénica. Ahora sigue de repartidor, en compañía de la mutante Turanga Leela y el robot doblador y alcohólico Bender, pero ahora sus repartos le llevan por toda la galaxia. Planet Express tendrán que lidiar con aventuras de todo tipo, desde el cambio climático hasta un enfrentamiento con el diablo robot, pasando por un embarazo inesperado, una carrera en televisión y los múltiples intentos de Fry por cortejar a Leela.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/43683a2d-9ed5-422a-a285-34a73391285e"
+    },
+    {
+      "id": "s6",
+      "title": "Temporada 6",
+      "year": 2010,
+      "episodes": 16,
+      "poster": {
+        "src": "img/poster-s6.avif",
+        "alt": "Poster Temporada 6"
+      },
+      "synopsis": "Contra todo pronóstico regresa la tripulación más intrépida e incompetente de la televisión. La plantilla de Planet Express, liderados por la mutante Leela, el humano Fry y el robot Bender, se embarcan en una nueva serie de aventuras planteadas de una manera completamente diferente. Sus nuevos episodios, concebidos originalmente como películas, lidirarán con misteriosos tatuajes, un virus informático, una anomalía interdimensional con intenciones amorosas, una partida a Dragones y Mazmorras que se va de madre y una gran ola de radiación verde.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/d18c6d82-c220-4192-845b-9fa403d2cd2c"
+    },
+    {
+      "id": "s7",
+      "title": "Temporada 7",
+      "year": 2010,
+      "episodes": 13,
+      "poster": {
+        "src": "img/poster-s7.avif",
+        "alt": "Poster Temporada 7"
+      },
+      "synopsis": "Sube al máximo la gravedad y mete tu cabeza en un frasco, porque la serie animada más futurista regresa con más extraños y brillantes episodios. Los clásicos personajes, Philip J. Fry, Turanga Leela y Bender Doblador Rodríguez, regresan con aventuras de lo más extraordinarias alrededor de todo el universo y más allá. Un montón de diversión futurista a través de profecías ancestrales, cabezas de presidentes, gangsters robot, mariposas enfadadas, misterios en Roma que ni siquiera Tom Hanks ha sido capaz de resolver y, por supuesto, fabricación de salchichas.",
+      "episodes_url": "temporadas.html"
+    },
+    {
+      "id": "s8",
+      "title": "Temporada 8",
+      "year": 2011,
+      "episodes": 13,
+      "poster": {
+        "src": "img/poster-s8.avif",
+        "alt": "Poster Temporada 8"
+      },
+      "synopsis": "¡Atención, manipulables cerebros terrícolas! La nave de Planet Express está a punto de despegar para otra serie de aventuras futuristas de la mano de la cuestionable tripulación compuesta por Philip J. Fry, la mutante Leela y el robot alcohólico Bender. Sus nuevos viajes les llevarán a toparse con maníacos pilotos de carreras callejeras, robots que se dedican al robo de tumbas, transplantes de nariz que ponen los nervios a flor de piel, inesperados cambios de sexo o intentos de huída de las amenazas de la robomafia.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/c8e8ab1b-4109-4a6f-bd0c-923c80aacab4"
+    },
+    {
+      "id": "s9",
+      "title": "Temporada 9",
+      "year": 2012,
+      "episodes": 13,
+      "poster": {
+        "src": "img/poster-s9.avif",
+        "alt": "Poster Temporada 9"
+      },
+      "synopsis": "Las brillantes, subversivas y animadas aventuras de la tripulación de Planet Express regresan por demanda popular. Volvemos al año 3000, donde Fry, el robot Bender y Leela, además del resto de componentes de este mundo futurista, se enfrentan a nuevos encargos y retos. Estos incluyen una inesperada paternidad, unas elecciones presidenciales, un Oktoberfest, un apocalipsis que debe ser detenido, unos robots animales y la búsqueda del significado de la vida.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/786254aa-a308-446a-b6b0-e63b9b6f41ba"
+    },
+    {
+      "id": "s10",
+      "title": "Temporada 10",
+      "year": 2013,
+      "episodes": 13,
+      "poster": {
+        "src": "img/poster-s10.avif",
+        "alt": "Poster Temporada 10"
+      },
+      "synopsis": "Regresan una vez más los intrépidos e inconscientes Philip J. Fry, Turanga Leela y el robot alcohólico Bender para una nueva serie de historias variopintas a lo largo del universo en el año 3000. La tripulación de Planet Express se encontrará en estas 13 nuevas aventuras que les llevarán a una extraña dimensión alternativa, una compañía dirigida por monos, un cantante de folk problemático, una terrible conspiración, un misterioso sonido que amenaza a la Tierra y un misterioso asesinato.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/c9c8b9f8-07c0-415a-9fc7-497cf2c22040"
+    },
+    {
+      "id": "s11",
+      "title": "Temporada 11",
+      "year": 2023,
+      "episodes": 10,
+      "poster": {
+        "src": "img/poster-s11.avif",
+        "alt": "Poster Temporada 11"
+      },
+      "synopsis": "Tras un breve parón de diez años, la tripulación de Planet Express sale triunfante una vez más. Como salidos de una cápsula criogénica, el reparto original regresa con nuevas aventuras orientadas a todos los gustos. Sus nuevos episodios nos mostraran el desarrollo de la épica historia de amor de Fry y Leela, el misterioso contenido de la caja de arena de Mordisquitos, la historia detrás del maligno Santa Claus robot, además de eventos como una pandemia, las vacunas, el bitcoin, la cultura de la cancelación y la televisión en streaming.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/34323ab1-fc37-46ea-95b8-4a0398121bfa"
+    },
+    {
+      "id": "s12",
+      "title": "Temporada 12",
+      "year": 2024,
+      "episodes": 10,
+      "poster": {
+        "src": "img/poster-s12.avif",
+        "alt": "Poster Temporada 12"
+      },
+      "synopsis": "La tripulación se embarcará en una serie de alucinantes aventuras que pondrán a prueba sus habilidades y valentía. Desde participar en juegos a muerte durante fiestas de cumpleaños hasta descubrir los secretos ocultos en la ancestral aldea robot de Bender, los personajes enfrentarán situaciones inesperadas y emocionantes. Además, se encontrarán con nuevos amigos y enemigos provenientes del mundo de la Inteligencia Artificial, todo mientras lidian con adorables beanbags y desentrañan la verdadera historia detrás de la sustancia que altera la conciencia, conocida como café, que se remonta a hace más de 5 millones de años.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/0d046b06-f3d8-4aca-9759-b17b0922b670"
+    },
+    {
+      "id": "s13",
+      "title": "Temporada 13",
+      "year": 2025,
+      "episodes": 10,
+      "poster": {
+        "src": "img/poster-s13.avif",
+        "alt": "Poster Temporada 13"
+      },
+      "synopsis": "Bender pierde el control mientras un volcán amenaza con destruirlo todo. Fry compite con un rival por el corazón de Leela, y Zoidberg sorprende con un inesperado ascenso celestial. Entre caos, romance y desastres inminentes, esta temporada llega cargada de giros sorprendetes y aventuras que pondrán a prueba a la tripulación del Planet Express.",
+      "episodes_url": "https://www.disneyplus.com/es-es/play/4fe4d45e-4ff9-468d-adf7-b47c08ff016d"
+    }
+  ]
+}
