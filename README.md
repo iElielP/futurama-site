@@ -1,9 +1,9 @@
 <!-- LOGO DEL PROYECTO -->
 <p align="center">
-  <img src="img/logo-futurama.png" alt="Logo Futurama Site" width="200" />
+  <img src="img/logo-futurama.webp" alt="Logo Futurama Site" width="400" />
 </p>
 
-<h1 align="center">🌌 Futurama Fan Site</h1>
+<h1 align="center">🌌 Fan Site</h1>
 <p align="center">
   Un sitio web temático sobre <strong>Futurama</strong>, con galerías, temporadas, personajes y efectos visuales 🚀
 </p>
@@ -17,8 +17,6 @@
 - [🚀 Instalación y Uso](#-instalación-y-uso)
 - [📸 Capturas](#-capturas)
 - [🌐 Demo](#-demo)
-- [🤝 Contribución](#-contribución)
-- [📜 Licencia](#-licencia)
 
 ---
 
@@ -94,37 +92,25 @@ futurama-site/
 
 ## 📸 Capturas
 
-<p align="center">
-  <img src="img/captura-hero.png" alt="Hero con carrusel" width="600"/>
-  <br/>
-  <em>Hero con carrusel automático</em>
-</p>
+### 🏠 Página de inicio
+![Index](index.png)
 
-<p align="center">
-  <img src="img/captura-galeria.png" alt="Galería dinámica" width="600"/>
-  <br/>
-  <em>Galería dinámica con lightbox</em>
-</p>
+### 📺 Temporadas
+![Temporadas](temporadas.png)
+
+### 📬 Contacto
+![Contacto](contacto.png)
+
+### 👥 Galería
+![Galería](galeria-1.png)
+
+### 🔍 Lightbox de personajes
+![Lightbox](galeria-2.png)
 
 ---
 
 ## 🌐 Demo
 👉 [Enlace al sitio en GitHub Pages](https://usuario.github.io/futurama-site) *(ejemplo, ajustar al tuyo)*  
-
----
-
-## 🤝 Contribución
-1. Haz un fork 🍴  
-2. Crea una rama (`git checkout -b feature/nueva-funcion`)  
-3. Realiza tus cambios y haz commit (`git commit -m 'Agrego nueva función'`)  
-4. Haz push a la rama (`git push origin feature/nueva-funcion`)  
-5. Abre un Pull Request 🚀  
-
----
-
-## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**.  
-Eres libre de usarlo, modificarlo y compartirlo ✨
 
 ---
 
