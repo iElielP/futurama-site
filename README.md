@@ -110,7 +110,7 @@ futurama-site/
 ---
 
 ## 🌐 Demo
-👉 <a href="https://ielielp.github.io/futurama-site/" target="_blank" rel="noopener noreferrer">🌐 Ver Futurama Site (Enlace al sitio en GitHub Pages) </a>
+👉 <a href="https://ielielp.github.io/futurama-site/" target="_blank" rel="noopener noreferrer">Ver Futurama Site (Enlace al sitio en GitHub Pages)</a>
 
 
 ---
